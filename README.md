@@ -1,3 +1,27 @@
+# React Shopping List
+
+This is a simple shopping list application built with React. It allows you to add items to a list and delete items by clicking on them.
+
+- [Live Demo](http://Muhammed-Safwan21.github.io/add-to-cart)
+
+
+# Technologies Used
+
+-React
+-JavaScript
+-HTML
+-CSS
+
+# Usage
+
+1.Enter the name of the item you want to add in the input field.
+2.Click the "Add to cart" button or press Enter to add the item to the shopping list.
+3.The item will appear in the shopping list below the input field.
+4.To remove an item, simply click on it in the shopping list. It will be deleted from the list.
+
+# License
+
+This project is licensed under the MIT License.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
